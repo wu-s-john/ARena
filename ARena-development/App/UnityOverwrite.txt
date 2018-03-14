@@ -5,19 +5,17 @@
 # Write a line equal to 'overwrite-all' (without quotes) to overwrite everything (preserved accross builds)
 # Write a line equal to 'keep-all' (without quotes) to keep files regardless their modification (preserved accross builds)
 # Default behavior is to never overwrite files
-New Unity Project.sln: modified
-GeneratedProjects\UWP\Assembly-CSharp\project.json: 4FCF72A4D5EDB37E24C206A7BCFE7AF1
-New Unity Project\App.cs: 94BFDDF364CACB94D63307FEB9CC7FAA
-New Unity Project\New Unity Project.csproj: 67520EA1080779AA2260CBDB0BF3CC96
-New Unity Project\New Unity Project.csproj.user: modified
-New Unity Project\Package.appxmanifest: 24F8623B8F4401989ACFEFCF4BE285C9
-New Unity Project\project.json: 1D02BC64BAC0D041019673A1C4C51737
-New Unity Project\Assets\SplashScreen.scale-200.png: 60618416282ED104FD1473935716045D
-New Unity Project\Assets\Square150x150Logo.scale-200.png: E02834B4A5DFB97FF8E212C1CACBB084
-New Unity Project\Assets\Square44x44Logo.scale-200.png: 6C6EF27184ABE9D870A9D564953775DE
-New Unity Project\Assets\Square44x44Logo.targetsize-24_altform-unplated.png: 156637F7B5363E983E7A46D8E533A23D
-New Unity Project\Assets\StoreLogo.png: 90BD194CA4A7CFFF3E8B8222229857FB
-New Unity Project\Assets\Wide310x150Logo.scale-200.png: C96846A80DF667F87355569CD816192D
-New Unity Project\obj\x86\Release\New Unity Project.csproj.CopyComplete: D41D8CD98F00B204E9800998ECF8427E
-New Unity Project\Properties\AssemblyInfo.cs: 0256BB0161FB258FFB4265014483303D
-New Unity Project\Properties\Default.rd.xml: 72EB282657164E79A1C42F6240984826
+HelloWorld.sln: 3ACFD1FEF5F5F8234CCB1D3DEDCEB545
+HelloWorld\App.cs: 2C8E993FC676E418E83D5007FA9F980E
+HelloWorld\HelloWorld.csproj: B7E9507FF04912D842E6595D8EAEF753
+HelloWorld\HelloWorld.csproj.user: BEFB8AC4886C4CFDD3C68445D6F19B04
+HelloWorld\Package.appxmanifest: 99F2DC2FFC98323EBFC5047258C04524
+HelloWorld\project.json: 1D02BC64BAC0D041019673A1C4C51737
+HelloWorld\Assets\SplashScreen.scale-200.png: 60618416282ED104FD1473935716045D
+HelloWorld\Assets\Square150x150Logo.scale-200.png: E02834B4A5DFB97FF8E212C1CACBB084
+HelloWorld\Assets\Square44x44Logo.scale-200.png: 6C6EF27184ABE9D870A9D564953775DE
+HelloWorld\Assets\Square44x44Logo.targetsize-24_altform-unplated.png: 156637F7B5363E983E7A46D8E533A23D
+HelloWorld\Assets\StoreLogo.png: 90BD194CA4A7CFFF3E8B8222229857FB
+HelloWorld\Assets\Wide310x150Logo.scale-200.png: C96846A80DF667F87355569CD816192D
+HelloWorld\Properties\AssemblyInfo.cs: 5E3257EF60D54F5BD97D32CDDEE2069C
+HelloWorld\Properties\Default.rd.xml: 72EB282657164E79A1C42F6240984826

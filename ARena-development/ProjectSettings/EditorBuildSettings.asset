@@ -8,6 +8,9 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/scene.unity
     guid: 872219e20614e2b48874dc044b8c15d4
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Origami/origomiScene.unity
-    guid: ca38cb3f6c1514b4aa9fc2b13224c869
+    path: Assets/Scenes/TesterUIButtons.unity
+    guid: ce4e4bfc0c41215499e766acae327adb
