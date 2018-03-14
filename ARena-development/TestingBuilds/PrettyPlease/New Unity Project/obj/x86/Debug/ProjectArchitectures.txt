@@ -1,0 +1,2 @@
+C:\Users\HP Elitedesk\Documents\ARena\ARena-development\TestingBuilds\PrettyPlease\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\HP Elitedesk\Documents\ARena\ARena-development\TestingBuilds\PrettyPlease\New Unity Project\New Unity Project.csproj;x86

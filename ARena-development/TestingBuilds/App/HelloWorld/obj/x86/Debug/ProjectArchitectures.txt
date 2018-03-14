@@ -1,0 +1,2 @@
+C:\Users\HP Elitedesk\Documents\ARena\ARena-development\TestingBuilds\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\HP Elitedesk\Documents\ARena\ARena-development\TestingBuilds\App\HelloWorld\HelloWorld.csproj;x86
