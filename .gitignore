@@ -14,6 +14,7 @@ TestingBuilds/
 
 ARena-development/.vs
 
+*.DS_STORE
 
 ARena-development/App
 # Visual Studio 2015 cache directory
